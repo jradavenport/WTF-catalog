@@ -14,7 +14,8 @@ If follow-up observations are done, start a new repo/project and link to it!
 | [Gaia20eck](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20eck/) | 357.90196 | 61.21392 | 2 year dip | |
 | [Gaia21bcv](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia21bcv/) | 108.63865 | -12.22426 | 2 year dip | |
 | [Gaia19dpn](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia19dpn/) | 216.99222 | -44.89151 | 1 year dip, dip in WISE | |
-| [Gaia19asz](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia19asz/) | 299.49704 | 46.27997 | 1 year, VERY deep eclipse| YES |
+| [Gaia19asz](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia19asz/) | 299.49704 | 46.27997 | 1 year, VERY deep eclipse| [repo](https://github.com/jradavenport/Gaia19asz) |
+| [Gaia20ehk](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20ehk/) | 116.85473 |  -34.15899 | long event, very intersting | [temp repo](https://github.com/jradavenport/Gaia20ehk)
 | [Gaia20cph](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20cph/) | 291.76966  | 21.25225 | long term dips, like [Gaia20ehk](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20ehk/)? | |
 | [Gaia21ajl](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia21ajl/) | 339.42366 | 39.51900 | long term dips, like [Gaia20ehk](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20ehk/)? | | 
 | [Gaia21awu](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia21awu/) | 85.37354 | 30.19713 | long term dip event? |  | 
