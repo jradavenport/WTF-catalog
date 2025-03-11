@@ -25,6 +25,7 @@ Objects from the [Gaia Alerts](http://gsaweb.ast.cam.ac.uk/alerts/alertsindex) t
 | [Gaia21foy](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia21foy/) | 296.15363 | 8.74800 | 18 month dip, anti dwarf nova? |
 | [Gaia25abj](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia25abj/) | 167.96214 | -61.01256 | slow bright then dip, like [Gaia22dtk](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22dtk/) ([YSO/EXor paper](https://arxiv.org/abs/2401.095220))? |
 | [Gaia24auh](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia24auh/) | 158.83539 |  -58.53529 | two 0.3 mag outbursts, maybe another in archival data. EXor like [Gaia20eae](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20eae/) or [Gaia23bab](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23bab/) ([paper](https://arxiv.org/abs/2404.01974)) |
+| [Gaia23czs](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23czs/) | 41.10955 | 63.93949 | another recurrent accretion object, EXor like? |
 | [Gaia22dws](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22dws/) | 121.59226 | 21.44102 | AGN, with 2 wild outbursts. TDE-like? |
 | [Gaia23btd](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23btd/) | 244.06634 | -54.74597 | steady for many years, now BIG decline! |
 
