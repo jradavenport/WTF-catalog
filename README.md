@@ -30,6 +30,6 @@ If follow-up observations are done, start a new repo/project and link to it!
 | [Gaia24auh](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia24auh/) | 158.83539 |  -58.53529 | two 0.3 mag outbursts, maybe another in archival data. EXor like [Gaia20eae](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia20eae/) or [Gaia23bab](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23bab/) ([paper](https://arxiv.org/abs/2404.01974)) | |
 | [Gaia23czs](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23czs/) | 41.10955 | 63.93949 | another recurrent accretion object, EXor like? | |
 | [Gaia22dws](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22dws/) | 121.59226 | 21.44102 | AGN, with 2 wild outbursts. TDE-like? | |
-| [Gaia23btd](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23btd/) | 244.06634 | -54.74597 | steady for many years, now BIG decline! | |
+| [Gaia23btd](http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23btd/) | 244.06634 | -54.74597 | steady for many years, now BIG decline! | [repo](https://github.com/AndyTza/Gaia23btd-WTF)|
 
 
